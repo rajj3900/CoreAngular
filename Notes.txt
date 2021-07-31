@@ -1,0 +1,3 @@
+Learn Angular 10, .NET Core Web API & SQL Server by Creating a Web Application from Scratch
+https://github.com/rajj3900/CoreAngular
+
